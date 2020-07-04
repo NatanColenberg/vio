@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: rgba(81, 81, 81, 1);
+  color: white;
+  height: 100vh;
+}
+
+header {
+  background-color: #333333;
+  padding: 0.5rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+.MuiTableRow-root {
+  cursor: pointer;
+}

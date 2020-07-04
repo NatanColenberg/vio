@@ -1,0 +1,19 @@
+.login-wrap {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.login-title {
+  font-size: 3rem;
+}
+
+.login-textField {
+  margin: 1rem !important;
+}
+
+.login-button {
+  margin: 1rem !important;
+}

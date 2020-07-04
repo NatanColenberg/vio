@@ -1,0 +1,16 @@
+.viewer-title {
+    margin: 2rem;
+}
+
+.viewer-cont {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-navControlButton {
+    background-color: rgb(44, 44, 44) !important;
+    color: white !important;
+    margin: 1rem !important;
+}
