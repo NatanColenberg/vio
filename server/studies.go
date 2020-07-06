@@ -1,5 +1,6 @@
 package main
 
+// Study is the structure of the Study instance
 type Study struct {
 	Name        string `json:"name"`
 	Mrn         string `json:"mrn"`
@@ -10,6 +11,7 @@ type Study struct {
 	Selected    bool   `json:"selected"`
 }
 
+// Studies Represents a List of MOC Studies
 var Studies = []Study{
 	{
 		Name:        "Carmelia Tunnell",
